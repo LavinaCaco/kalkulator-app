@@ -1,0 +1,14 @@
+E:\local disk D\vs\semester2\01\kalkulator\bin\Debug\kalkulator.exe.config
+E:\local disk D\vs\semester2\01\kalkulator\bin\Debug\kalkulator.exe
+E:\local disk D\vs\semester2\01\kalkulator\bin\Debug\kalkulator.pdb
+E:\local disk D\vs\semester2\01\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+E:\local disk D\vs\semester2\01\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+E:\local disk D\vs\semester2\01\kalkulator\obj\Debug\kalkulator.exe
+E:\local disk D\vs\semester2\01\kalkulator\obj\Debug\kalkulator.pdb
+D:\VisualStudio\01\kalkulator\bin\Debug\kalkulator.exe.config
+D:\VisualStudio\01\kalkulator\bin\Debug\kalkulator.exe
+D:\VisualStudio\01\kalkulator\bin\Debug\kalkulator.pdb
+D:\VisualStudio\01\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+D:\VisualStudio\01\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\VisualStudio\01\kalkulator\obj\Debug\kalkulator.exe
+D:\VisualStudio\01\kalkulator\obj\Debug\kalkulator.pdb
